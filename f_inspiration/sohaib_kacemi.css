@@ -156,11 +156,17 @@ a { text-decoration: none; }
 .mintitle{
   color: #00BE9B;
 }
+#rele{
+	margin: 20px auto 20px auto;
+	width: 600px;
+	height: 600px;
+	border: 1px solid #00BE9B ;
+	}
 
 #foot { margin-left: auto;
 			margin-right: auto;
 			position: relative;
-			top: 500px;
+			top: 200px;
 
 				height: 350px;
 				width: 800px;

@@ -175,6 +175,7 @@ border-top : 2px solid white;
 #years {
 	border-top: solid 1px white;
 	border-bottom: solid 1px white;
+	margin-bottom: 200px;
 }
 }
 #foot { margin-left: auto;
