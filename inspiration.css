@@ -141,13 +141,15 @@ a { text-decoration: none; }
 }
 
 
-#topics {
-border-top : 2px solid white;
- margin : 100px auto 100px auto;
+.topics {
+
+ 	margin : 200px auto 200px auto;
 	width: 740px;
 	
-	border : 2px solid black;
+	border : 2px solid white;
 	border-radius: 10px;
+	
+	
 
 
 }
@@ -176,6 +178,7 @@ border-top : 2px solid white;
 	border-top: solid 1px white;
 	border-bottom: solid 1px white;
 	margin-bottom: 200px;
+	margin-top: 200px
 }
 }
 #foot { margin-left: auto;
