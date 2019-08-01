@@ -1,9 +1,18 @@
+@font-face {
+font-family: "tajawal";
+src: url("https://dzlibre.github.io/fonts/tajawal/tajawal-regular-webfont.woff") format("woff");
+	
+
+}
+
+
 body {
 		background-color: #333333;
 		color: black;
-		font-family:    KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
+		font-family:   "tajawal" , KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
 		,Arial 
 		 ;
+
 
 }
 #page {
@@ -15,6 +24,8 @@ body {
 
 		}
 
+
+}
 
 #logo { position: relative;
 		top: 0px;
@@ -158,7 +169,7 @@ a { text-decoration: none; }
 .tip h1 { color: deeppink;
 		font-size: 28px}
 .par { font-size: 20px;
-	font-family: Koufiya LT ,KacstQurn , Arial;
+	font-family: "tajawal" ,  Koufiya LT ,KacstQurn , Arial;
 	}
 
 #foot { margin-left: auto;
