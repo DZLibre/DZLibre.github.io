@@ -1,21 +1,20 @@
 body {
 		background-color: #333333;
 		color: black;
-		font-family:    KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
+		font-family:     KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
 		,Arial 
-		 ;
-
 
 }
 #page {
 		width: 850px;
 		margin: 0px auto 0px auto;
-		height: 2000px;
+		height: 2500px;
+
 
 
 
 		}
-
+header {}
 
 #logo { position: relative;
 		top: 0px;
@@ -51,7 +50,6 @@ a { text-decoration: none; }
 	padding: 0px;
 
 
-
 }
 #about {
 		
@@ -65,7 +63,6 @@ a { text-decoration: none; }
 		color: black;
 		text-decoration: none;
 		margin-bottom: 12px;
-		
 		
 		
 }
@@ -97,17 +94,14 @@ a { text-decoration: none; }
 	 border-radius: 23px;
 	 color: black;
 	 background-color: #00BE9B;
-	 font-size: 25px;
 	 font-weight: bold;
+	 font-size: 25px;
 	}
 
 
 .submenu a:hover { background-color:black;
           color: #00BE9B;
           font-weight : bold;  }
-
-
-
 
 #where {
 	width:200px;
