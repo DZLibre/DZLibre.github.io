@@ -1,7 +1,13 @@
+@font-face{
+	font-family: "taja";
+	src :url(fonts/Cairo.ttf);
+
+}
+
 body {
 		background-color: #333333;
 		color: black;
-		font-family:     KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
+		font-family:  "taja" ,  KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
 		,Arial 
 
 }
