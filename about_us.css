@@ -5,9 +5,7 @@
 body {
 		background-color: #333333;
 		color: black;
-		font-family:  "taja" , KacstPoster, Andalus ,  Koufiya LT , 'Courier New'  , KacstDigital ,Amiri Quran , KacstPen
-		,Arial 
-		 ;
+		font-family:  "taja" ,Arial ;
 
 }
 #page {
@@ -126,7 +124,7 @@ a { text-decoration: none; }
   color:white;
   margin : 10px auto 50px auto;
   font-size: 23px;
-  font-family:  "taja", Koufiya LT ,KacstQurn , Arial;
+  font-family:  "taja",Arial;
   padding-left:8px;
   padding-right: 19px;}
 
@@ -136,7 +134,7 @@ a { text-decoration: none; }
   }
 
  .par {
-	font-family: "taja" , Koufiya LT ,KacstQurn , Arial;
+	font-family: "taja" ,  Arial;
 	 font-size: 23px;
 	 text-align:center;
 	 margin: 30px auto 30px auto;
