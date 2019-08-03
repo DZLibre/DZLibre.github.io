@@ -1,0 +1,221 @@
+@font-face{
+	font-family: "taja";
+	src :url(fonts/Cairo.ttf);
+}
+body {
+		background-color: #333333;
+		color: black;
+		font-family:     "taja" ,Arial ;
+
+}
+#page {
+		width: 850px;
+		margin: 0px auto 0px auto;
+		height: 2500px;
+
+
+
+
+		}
+header {}
+
+#logo { position: relative;
+		top: 0px;
+		left: 0px
+		width: 150px;
+		height : 150px;
+		margin-left: 12px;
+		margin-top: 12px;
+	 }
+#logo1 { width: 150px; }
+
+#fig {  background-color: #00BE9B ;
+		color:black;
+		font-size: 30px;
+		font-weight: bold;
+		position: relative;
+		left: 13px;
+		width: 150px;
+		text-align: center;
+		border-radius: 27px;
+		border: 3px solid black;
+	}
+#fig:hover {
+	color:#00BE9B;
+	background-color: black;
+}
+a { text-decoration: none; }
+#abo {
+	width: 230px;
+	position: relative;
+		left:600px;
+		top:-160px;
+	padding: 0px;
+
+
+}
+#about {
+		
+	
+		border: 2px solid #111111;
+		font-size: 40px;
+		text-align: center;
+		border-radius: 23px;
+		
+		background-color: #00BE9B;
+		color: black;
+		text-decoration: none;
+		margin-bottom: 12px;
+		
+		
+}
+
+
+#about:hover {
+		color:#00BE9B;
+		background: black;
+		font-weight: bold;
+}
+#menu {
+     margin: 0px auto 0px auto;
+ 	text-align: center;
+	padding-bottom: 30px;
+	border-bottom: 1px solid white;
+ }
+.submenu { display: inline ;
+	 margin: 4px 12px 4px 12px;
+	 padding : 0px 0px 0px 0px;
+	 height: 100px;
+	 color: black;
+
+	 }
+
+
+ .submenu a {
+ 	 padding : 12px 25px 12px 25px;
+ 	 border : 2px solid black;
+	 border-radius: 23px;
+	 color: black;
+	 background-color: #00BE9B;
+	 font-weight: bold;
+	 font-size: 25px;
+	}
+
+
+.submenu a:hover { background-color:black;
+          color: #00BE9B;
+          font-weight : bold;  }
+ #need a { background-color:black;
+           color: #00BE9B;
+           font-weight : bold;
+
+ }
+
+
+#introduction {
+	width: 400px;
+	margin: 100px auto 200px auto;
+	border: 2px solid #4fd0ff;
+	text-align: center;
+	color:white;
+	border-radius: 23px;
+
+}
+#introduction h1 {
+	
+	width: 300px;
+	
+}
+#introduction:hover {border:2px solid deeppink;}
+.par {
+	font-family: "taja" ,Arial ;
+	 font-size: 23px;
+	 text-align:center;
+	 margin: 30px auto 30px auto;
+	 max-width:300px;
+}
+.title {
+	color: deeppink;
+
+	margin: 50px auto 12px auto;
+	width: 700px;
+	
+	text-align: center;
+}
+
+
+#topics {
+border-top : 2px solid white;
+ margin : 100px auto 100px auto;
+	width: 700px;
+	
+	border-bottom : 2px solid white;
+
+
+}
+.topic {
+	border: 2px solid #4fd0ff;
+	margin:100px auto 100px auto;
+	border-radius: 23px;
+}
+
+
+
+.topic p { 	color : white;
+						font-size: 25px;
+						font-family: "taja" ,Arial ;
+						text-align: center;
+				 	 	width: 500px;
+					 	margin:20px auto 20px auto;
+				    }
+.topic:hover {
+	border:2px solid deeppink;
+
+}
+#foot { margin-left: auto;
+			margin-right: auto;
+			position: relative;
+			top: 200px;
+
+				height: 350px;
+				width: 800px;
+
+}
+#topm {
+	width:200px;
+	font-size: 30px;
+	margin:10px auto 40px auto;
+	border : 2px solid black;
+	border-radius: 23px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: black;
+	background-color: #00BE9B;
+	text-align: center;
+}
+#topm:hover {background-color:black;
+          color: #00BE9B;
+          font-weight : bold;
+
+}
+#right {
+	color: white;
+	width: 300px;
+ 	margin:200px auto 10px auto;
+
+	text-align: center;
+	font-size: 18px;
+
+	text-transform: capitalize;
+
+}
+#right:hover {
+	text-decoration: underline;
+	color: deeppink;
+	border-bottom: 2px soid deeppink;
+
+}
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
