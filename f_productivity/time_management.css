@@ -150,7 +150,8 @@ a { text-decoration: none; }
 
 .images {
 		margin :30px auto 30px auto;
-	width: 500px;
+ 		
+ 		 display: flex; justify-content: center;
 }
 
 
@@ -163,6 +164,10 @@ a { text-decoration: none; }
 	width: 400px;
 	padding-top: 6px;
 	padding-bottom: 6px;
+}
+.impo {
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 

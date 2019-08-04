@@ -11,7 +11,7 @@ body {
 #page {
 		width: 850px;
 		margin: 0px auto 0px auto;
-		height: 2500px;
+		height: 2000px;
 
 
 
@@ -209,12 +209,7 @@ border-top : 2px solid white;
 	text-transform: capitalize;
 
 }
-#right:hover {
-	text-decoration: underline;
-	color: deeppink;
-	border-bottom: 2px soid deeppink;
 
-}
 .copyleft {
   display:inline-block;
   transform: rotate(180deg);

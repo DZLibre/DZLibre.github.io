@@ -209,12 +209,7 @@ border-top : 2px solid white;
 	text-transform: capitalize;
 
 }
-#right:hover {
-	text-decoration: underline;
-	color: deeppink;
-	border-bottom: 2px soid deeppink;
 
-}
 .copyleft {
   display:inline-block;
   transform: rotate(180deg);
