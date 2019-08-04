@@ -146,6 +146,33 @@ a { text-decoration: none; }
   border-top:1px solid white;
   border-bottom: 1px solid white;
 }
+
+
+.images {
+		margin :30px auto 30px auto;
+	width: 500px;
+}
+
+
+.quote {
+	border-top :1px solid white;
+	border-bottom: 1px solid white;
+	color:white;
+	margin:12px auto 12px auto;
+	text-align: center;
+	width: 400px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+
+
+
+
+
+
+
+
 .fautes{
 	font-family: "taja" ,Arial ;
   font-size: 23px;
@@ -200,12 +227,7 @@ a { text-decoration: none; }
 	text-transform: capitalize;
 
 }
-#right:hover {
-	text-decoration: underline;
-	color: deeppink;
-	border-bottom: 2px soid deeppink;
 
-}
 .copyleft {
   display:inline-block;
   transform: rotate(180deg);
